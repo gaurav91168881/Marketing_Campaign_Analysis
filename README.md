@@ -77,12 +77,11 @@ The dashboard (`MCA.pbix`) provides an interactive view of:
 - Customer reviews
 
 ### Screenshots
+<img width="1377" height="772" alt="1" src="https://github.com/user-attachments/assets/26a6f93c-53d2-49e6-a392-41e089e0b320" />
 
-<img width="1377" height="772" alt="1" src="https://github.com/user-attachments/assets/cdf1c239-229f-4c49-b051-04b905611252" />
+<img width="1377" height="772" alt="2" src="https://github.com/user-attachments/assets/aceb345a-50bb-43e6-83d8-0b1290613e27" />
 
-<img width="1377" height="772" alt="2" src="https://github.com/user-attachments/assets/361021ba-8a7d-47f7-8b4e-f0d25028b24c" />
-
-<img width="1376" height="777" alt="3" src="https://github.com/user-attachments/assets/bf670bf4-c7a8-41cb-8609-676d33cf38ef" />
+<img width="1376" height="777" alt="3" src="https://github.com/user-attachments/assets/a2362373-d2d1-4668-bff1-aaeb905720fb" />
 
 
 ## Key Insights
